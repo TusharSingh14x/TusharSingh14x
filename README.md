@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Tushar's Singh and I am an undergrad computer science student intrested in doing WebDevlopment and BlockChain devlopment!
 - 🔭 I’m currently working on full-stack Web3 projects and real-time applications  
 - 🌱 I’m currently learning advanced Web Development and Blockchain (Solana)  
 - 🤔 I’m looking for help with smart contract optimization and scaling DApps and Webapplicatins  
