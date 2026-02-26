@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="750"/>
 </p>
@@ -12,11 +11,11 @@
 ## 🧑‍💻 About Me
 
 Hi there 👋
-I am **Tushar Singh**, an undergraduate Computer Science student passionate about **Web Development, Blockchain (Web3), and Generative AI**.
+I am **Tushar Singh**, an undergraduate Computer Science student passionate about **Web Development, Blockchain (Web3), and Generative AI systems**.
 
 * 🔭 Building **full-stack web apps, real-time applications & Web3 projects**
-* 🌱 Currently learning **Solana development & Generative AI systems**
-* 🤝 Interested in **Smart Contracts & scalable DApps**
+* 🌱 Currently learning **Solana development & applied Generative AI**
+* 🤝 Interested in **Smart Contracts, AI-powered apps & scalable DApps**
 * 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Databases & Web3**
 * 📫 Reach me: **[bt24csd001@gmail.com](mailto:bt24csd001@gmail.com)**
 * 🔗 LinkedIn: https://www.linkedin.com/in/tushar-singh-392a3031a/
@@ -36,21 +35,59 @@ I am **Tushar Singh**, an undergraduate Computer Science student passionate abou
 ## ⛓️ Web3 & Blockchain
 
 * Wallet architecture & key pairs
-* HD Wallet & mnemonic seed phrases
-* JSON-RPC & Ethers.js interaction
-* Smart contracts fundamentals
+* HD wallet (mnemonic seed & derivation paths)
+* JSON-RPC interaction & Ethers.js usage
+* Smart contract fundamentals
 * Solana ecosystem (learning)
-* DApp frontend-backend integration
+* Frontend ↔ blockchain integration (DApp interaction)
 
 ---
 
-## 🤖 Generative AI & ML
+## 🤖 Generative AI & LLM Engineering
 
-* Python for ML pipelines
-* Prompt engineering concepts
-* LLM interaction APIs
-* TensorFlow & PyTorch basics
-* Building AI-assisted web apps
+I am actively exploring **building real AI applications**, not just using APIs.
+
+### Core Concepts
+
+* Tokenization & context windows
+* Temperature, top-p & output control
+* Structured outputs & function/tool calling
+
+### RAG (Retrieval Augmented Generation)
+
+* Document chunking strategies
+* Embeddings & semantic search
+* Vector databases (FAISS / Chroma concepts)
+* Retrieval pipelines & context injection
+* Re-ranking & improving answer accuracy
+
+### AI Application Development
+
+* LLM API integration (OpenAI-compatible APIs)
+* Streaming responses in web apps
+* AI chatbots inside React applications
+* AI-assisted form analysis & document processing
+* FastAPI/Node backends serving AI features
+
+### Agents & Advanced Topics
+
+* Tool-using agents
+* Memory systems (short-term vs long-term memory)
+* Multi-step reasoning workflows
+* Background workers & async tasks
+
+### Evaluation & Reliability
+
+* Prompt testing & iteration
+* Guardrails & output validation
+* Rate limiting & caching strategies
+* Error handling for hallucinations
+
+### ML Foundations
+
+* PyTorch & TensorFlow basics
+* Model fine-tuning concepts (LoRA idea)
+* Image + text multimodal understanding (basic level)
 
 ---
 
@@ -96,4 +133,3 @@ I am **Tushar Singh**, an undergraduate Computer Science student passionate abou
 ---
 
 ⭐ *“Build. Break. Debug. Learn. Repeat.”*
-
