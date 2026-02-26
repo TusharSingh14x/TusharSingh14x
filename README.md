@@ -94,11 +94,11 @@ I am actively exploring **building real AI applications**, not just using APIs.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharSingh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharSingh14x&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharSingh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharSingh14x&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 </p>
 
 ---
