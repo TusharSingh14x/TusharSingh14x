@@ -1,46 +1,106 @@
-<p align="center">
-  <img src="./tshar.jpeg" width="200" alt="Portrait of Tushar Singh" />
-</p>
 
-<h1 align="center">Tushar Singh</h1>
+<!-- HERO -->
+<div align="center">
 
-<p align="center">
-  Computer Science Undergraduate · Full-Stack Development
-</p>
+<img src="./profile-header.svg" width="100%" alt="Tushar Singh — Developer Profile" />
 
-<p align="center">
-  <a href="https://github.com/TusharSingh14x?tab=repositories">Projects</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/tushar-singh-392a3031a/">LinkedIn</a>
-  &nbsp; · &nbsp;
+<br/>
+
+<a href="https://github.com/TusharSingh14x">
+  <img src="./tshar.jpeg" width="150" alt="Tushar Singh" style="border-radius:50%" />
+</a>
+
+# Tushar Singh
+
+### Full-Stack Developer · CS Undergraduate · AI Research Explorer
+
+Building useful products, exploring intelligent systems, and learning by shipping.
+
+<p>
+  <a href="https://github.com/TusharSingh14x?tab=repositories">Projects</a> ·
+  <a href="https://www.linkedin.com/in/tushar-singh-392a3031a/">LinkedIn</a> ·
   <a href="mailto:bt24csd001@gmail.com">Email</a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=TusharSingh14x&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
 ---
 
-### About
+## `$ whoami`
 
-I'm a computer science undergraduate with experience building full-stack web applications using React, Node.js and relational and document databases.
+I'm a Computer Science undergraduate focused on building full-stack applications and strengthening my foundations in software engineering.
 
-I'm building my foundations in machine learning and deep learning, with an interest in pursuing research in natural language processing and quantum computing, including their possible intersections.
+I enjoy working across the stack — from designing responsive interfaces to building APIs, integrating databases, and deploying applications.
 
-### Current focus
+Beyond web development, I'm exploring **machine learning, deep learning, NLP, and quantum computing**, with an interest in understanding where these research areas intersect.
 
-- Building full-stack applications with TypeScript, React and Node.js.
-- Developing my understanding of machine learning and deep learning.
-- Beginning to explore NLP and quantum computing as research directions.
+- **Currently building:** Full-stack applications with TypeScript, React, and Node.js.
+- **Currently learning:** Better software architecture, ML/DL fundamentals, and research methods.
+- **Exploring next:** NLP and quantum computing research directions.
+- **Approach:** Build things, understand the fundamentals, and keep improving.
 
-### Technologies
+## `$ tech-stack`
 
-**Languages:** JavaScript, TypeScript, Python, C++  
-**Web:** React, Next.js, Node.js, Express  
-**Databases:** PostgreSQL, MongoDB, Prisma  
-**Tools:** Git, Linux, Docker
+<div align="center">
 
-<details>
-  <summary>Recent GitHub activity</summary>
-  <br>
-  <a href="https://github.com/TusharSingh14x">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharSingh14x&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=8b949e&amp;point=ffffff&amp;hide_border=true&amp;hide_title=true&amp;grid=false&amp;days=30" width="100%" alt="GitHub contribution activity over the last 30 days" />
-  </a>
-</details>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" alt="JavaScript, TypeScript, Python and C++" />
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="React, Next.js, Node.js, Express and Tailwind CSS" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,git,linux,docker,vscode&theme=dark" alt="PostgreSQL, MongoDB, Prisma, Git, Linux, Docker and VS Code" />
+
+</div>
+
+## `$ selected-work`
+
+Explore my repositories for projects involving web development, backend engineering, and experimentation with emerging technologies.
+
+<div align="center">
+
+<a href="https://github.com/TusharSingh14x?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Projects-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
+</a>
+
+</div>
+
+> Tip: Pin your best 3–6 repositories on your GitHub profile so visitors can immediately see your strongest work.
+
+## `$ recent-work`
+
+Latest updates to my public repositories, generated from GitHub data.
+
+<div align="center">
+
+<img src="./activity.svg" width="100%" alt="Recent public repository activity" />
+
+</div>
+
+## `$ contribution-graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharSingh14x&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## `$ connect`
+
+<div align="center">
+
+<a href="https://github.com/TusharSingh14x">GitHub</a> ·
+<a href="https://www.linkedin.com/in/tushar-singh-392a3031a/">LinkedIn</a> ·
+<a href="mailto:bt24csd001@gmail.com">Email</a>
+
+<br/><br/>
+
+*Building. Learning. Shipping.*
+
+</div>
