@@ -83,13 +83,19 @@ Latest updates to my public repositories, generated from GitHub data.
 
 </div>
 
+
 ## `$ contribution-graph`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharSingh14x&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TusharSingh14x&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  alt="Tushar Singh's GitHub contribution graph"
+  width="100%"
+/>
 
 </div>
+
 
 ## `$ connect`
 
