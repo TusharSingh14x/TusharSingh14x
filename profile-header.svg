@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title description">
+<title id="title">Tushar Singh — computer science undergraduate</title>
+<desc id="description">Full-stack development. Building foundations in ML and deep learning. Exploring NLP and quantum computing. Animated decorative wave.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}
+.kicker{fill:#aab9c9;font-size:12px;letter-spacing:3px}
+.name{fill:#f1f5f9;font-size:58px;font-weight:700;letter-spacing:-2px}
+.focus{fill:#c7d6e7;font-size:19px}
+.a{animation:a 15s infinite}.b{opacity:0;animation:b 15s infinite}.c{opacity:0;animation:c 15s infinite}
+@keyframes a{0%,27%,100%{opacity:1}32%,95%{opacity:0}}
+@keyframes b{0%,28%,64%,100%{opacity:0}34%,59%{opacity:1}}
+@keyframes c{0%,61%,98%,100%{opacity:0}67%,93%{opacity:1}}
+.wave{stroke-dasharray:110 18;animation:flow 6s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-256}}
+.orbit{transform-origin:747px 115px;animation:orbit 18s linear infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.a,.b,.c,.wave,.orbit{animation:none}.a{opacity:1}.b,.c{opacity:0}}
+</style>
+<defs><clipPath id="clip"><rect width="900" height="270" rx="16"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect x="1" y="1" width="898" height="268" rx="16" fill="#0d131c" stroke="#253245"/>
+<text x="38" y="44" class="kicker">COMPUTER SCIENCE / UNDERGRADUATE</text>
+<text x="35" y="118" class="name">Tushar Singh</text>
+<g class="focus">
+<text x="38" y="165" class="a">Building full-stack web applications.</text>
+<text x="38" y="165" class="b">Building foundations in ML &amp; deep learning.</text>
+<text x="38" y="165" class="c">Exploring NLP &amp; quantum computing.</text>
+</g>
+<g fill="none" stroke="#7ca9e8">
+<ellipse cx="747" cy="115" rx="96" ry="31" opacity=".32" transform="rotate(-32 747 115)"/>
+<ellipse cx="747" cy="115" rx="96" ry="31" opacity=".32" transform="rotate(32 747 115)"/>
+<circle cx="747" cy="115" r="62" stroke="#253245"/>
+<g class="orbit"><circle cx="747" cy="53" r="5" fill="#9bbfee" stroke="none"/></g>
+<circle cx="747" cy="115" r="4" fill="#9bbfee" stroke="none"/>
+</g>
+<path d="M0 232 Q56 199 112 232 T224 232 T336 232 T448 232 T560 232 T672 232 T784 232 T896 232 T1008 232" fill="none" stroke="#253245" stroke-width="2"/>
+<path d="M0 232 Q56 199 112 232 T224 232 T336 232 T448 232 T560 232 T672 232 T784 232 T896 232 T1008 232" fill="none" stroke="#7ca9e8" stroke-width="2" class="wave"/>
+</g></svg>
